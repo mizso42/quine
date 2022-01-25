@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643139779 source:e:\d\codeblocks\projects\quine\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
